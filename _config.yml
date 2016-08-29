@@ -1,0 +1,28 @@
+name: TestingComplete
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.869
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#797979'
+    - '#b5b5b5'
+    - '#343434'
+    - '#d9d9d9'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 1
+purpose: []
