@@ -5,19 +5,21 @@ inNav: true
 inLanguage: null
 keywords: []
 description: We love performing at small and large venues.
-datePublished: '2016-08-28T06:07:21.287Z'
-dateModified: '2016-08-28T06:07:20.806Z'
+datePublished: '2016-08-28T06:09:29.153Z'
+dateModified: '2016-08-28T06:09:20.289Z'
 title: Like our show?
-authors: []
-publisher: {}
 author: []
 via: {}
-starred: false
 sourcePath: _posts/2016-08-28-like-our-show.md
+authors: []
+publisher: {}
+starred: false
 url: like-our-show/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19594041-fb66-4880-a4da-b84f2faf80b4.jpg)
+
 # Like our show?
 
 We love performing at small and large venues.
