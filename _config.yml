@@ -1,7 +1,7 @@
 name: TestingComplete
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.869
+layout_spectrum: 0.01902471878565848
+typography_spectrum: 0.8188990580383688
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#797979'
-    - '#b5b5b5'
-    - '#343434'
-    - '#d9d9d9'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 1
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6538196734618396
+  lightness: 0.3942281808704138
+  saturation: 0.07599496562033892
+  rhythmicContrast: 0.1859888443723321
 purpose: []
